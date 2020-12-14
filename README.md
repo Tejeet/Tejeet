@@ -5,7 +5,7 @@
 Hi there, I'm Tejeet.<br>
 My name is Tejeet and I am Embedded Software Developer, I have been in a field for nearly 3 years, and have been every minute of it. I am a Software Developer, Embedded Engineeer, Entrepreneur, Web Designer, Back-end Developer and overall Thinker. I love my work and enjoy each new project as I get it. Check out some of the links below to see what I've been up to lately. Feel free to have a look at my portfolio and don't hesitate to contact me if you think I can be of service to you.
 </i>
-
+<br>
 <br>
 
 <a href="https://tejeet.com">
@@ -21,6 +21,7 @@ My name is Tejeet and I am Embedded Software Developer, I have been in a field f
   <img align="left" alt="Tejeet Magar GitHub" width="30px" src="https://tejeet.com/images/github/github.png" />
 </a>
 
+<br>
 <br>
 
 - 🔭 I’m currently working on Python Gerber Extracter ...
