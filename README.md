@@ -1,4 +1,4 @@
-## Hi there,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+## Hi there,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <a href="https://tejeet.com">
   <img align="left" alt="Tejeet Magar Personal Site" width="30px" src="https://tejeet.com/images/github/mysite.png" />
@@ -14,13 +14,14 @@
 </a>
 
 <br>
-
-
+<br>
 
 - 🔭 I’m currently working on Python Gerber Extracter ...
 - 🌱 I’m currently learning Docker...
 - 💬 Ask me about Embedded Stuffs, IoT, Arduinos, ESP Controllers ...
 - 📫 How to reach me: https://twitter.com/TejeetM 
+
+<br>
 
 Skills Sets 
 - C++
