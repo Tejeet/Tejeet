@@ -18,10 +18,7 @@ I am Embedded Software Developer, I have been in a field for nearly 3 years, and
 <a href="https://github.com/Tejeet">
   <img align="left" alt="Tejeet Magar GitHub" width="30px" src="https://tejeet.com/images/github/github.png" />
 </a>
-
 <br>
-<br>
-
 - 🔭 I’m currently working on Python Gerber Extracter ...
 - 🌱 I’m currently learning Docker, Deno ...
 - 💬 Ask me about Embedded Stuffs, IoT, Arduinos, ESP Controllers ...
@@ -29,7 +26,6 @@ I am Embedded Software Developer, I have been in a field for nearly 3 years, and
 - 📝[My Resume](https://tejeet.com/media/Tejeet_Magar_resume.pdf)
 
 <br>
-
 #### Skills Sets 
 - C++
 - Embedded C
