@@ -28,8 +28,6 @@ I am Embedded Software Developer, I have been in a field for nearly 3 years, and
 - 📫 How to reach me: [@TejeetM](https://twitter.com/tejeetm)
 - 📝[My Resume](https://tejeet.com/media/Tejeet_Magar_resume.pdf)
 
-<br>
-
 #### Skills Sets 
 - C++
 - Embedded C
