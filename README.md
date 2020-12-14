@@ -33,8 +33,8 @@
 
 #### Checkout My App's
 - <a href="https://play.google.com/store/apps/developer?id=TeJEet+Magar">
-  <img align="left" alt="Tejeet Magar | Google Play" width="30px" src="https://tejeet.com/images/github/googleplay.png" />
-</a> Some of my apps built for Community
+  <img align="left" alt="Some of my apps built for Community" width="30px" src="https://tejeet.com/images/github/googleplay.png" /> Some of my apps built for Community
+</a> 
 
 
 
