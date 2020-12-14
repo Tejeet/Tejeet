@@ -24,14 +24,14 @@
 
 <br>
 
-Skills Sets 
+#### Skills Sets 
 - C++
 - Embedded C
 - Java
 - Python
 - Node.js
 
-### Checkout My App's
+#### Checkout My App's
 - <a href="https://play.google.com/store/apps/developer?id=TeJEet+Magar">
   <img align="left" alt="Tejeet Magar | Google Play" width="30px" src="https://tejeet.com/images/github/googleplay.png" />
 </a> Some of my apps built for Community
