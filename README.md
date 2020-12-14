@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning Docker, Deno ...
 - 💬 Ask me about Embedded Stuffs, IoT, Arduinos, ESP Controllers ...
 - 📫 How to reach me: [@TejeetM](https://twitter.com/tejeetm)
-- 📝[Resume](https://tejeet.com/media/Tejeet_Magar_resume.pdf)
+- 📝[My Resume](https://tejeet.com/media/Tejeet_Magar_resume.pdf)
 
 <br>
 
@@ -33,7 +33,7 @@
 
 #### Checkout My App's
 - <a href="https://play.google.com/store/apps/developer?id=TeJEet+Magar">
-  <img align="left" alt="Some of my apps built for Community" width="30px" src="https://tejeet.com/images/github/googleplay.png" /> Some of my apps built for Community
+  <img align="left" alt="Some of my apps built for Community" width="20px" src="https://tejeet.com/images/github/googleplay.png" /> Some of my apps built for Community
 </a> 
 
 
