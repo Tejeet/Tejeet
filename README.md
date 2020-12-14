@@ -19,8 +19,8 @@
 - 🔭 I’m currently working on Python Gerber Extracter ...
 - 🌱 I’m currently learning Docker, Deno ...
 - 💬 Ask me about Embedded Stuffs, IoT, Arduinos, ESP Controllers ...
-- 📫 How to reach me: [@TejeetM](https://twitter.com/tejeetm);
-- 
+- 📫 How to reach me: [@TejeetM](https://twitter.com/tejeetm)
+- 📝[Resume](https://tejeet.com/media/Tejeet_Magar_resume.pdf)
 
 <br>
 
