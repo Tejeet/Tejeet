@@ -40,4 +40,13 @@ I am Embedded Software Developer, I have been in a field for nearly 3 years, and
 </a> 
 
 
+# GitHub Stats
+![](https://visitor-badge.laobi.icu/badge?page_id=Tejeet)
+[![Github](https://img.shields.io/github/followers/Tejeet?label=Follow&style=social)](https://github.com/Tejeet)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejeet&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejeet&show_icons=true&theme=tokyonight)
+<br>
+
+
 
