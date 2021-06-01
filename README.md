@@ -29,7 +29,6 @@ I am Embedded Software Developer, I have been in a field for nearly 3 years, and
 - 📝[My Resume](https://tejeet.com/media/Tejeet_Magar_resume.pdf)
 
 #### Skills Sets 
-- C++
 - Embedded C
 - Java
 - Python
